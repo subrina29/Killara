@@ -1685,10 +1685,10 @@
   resolved "https://registry.yarnpkg.com/@mantine/utils/-/utils-5.2.0.tgz#7b0488a96198bd06bfdf16ce088b61b3afd2bd9b"
   integrity sha512-wDJKbW5EYboTSNkWhIXKdyDgBVxGLmdkGL4O94iNtZbRy5zoouGaEP3sW88GgIhyFmeVlnu+Mdzzsd76IsX/NA==
 
-"@minoru/react-dnd-treeview@^2.0.2":
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/@minoru/react-dnd-treeview/-/react-dnd-treeview-2.0.2.tgz#020ebe5a488d7e1a83a7e43e52a5db7c3ab6aeed"
-  integrity sha512-l3b0HZlQUw08PXIlRoeSS2fMNabMFHOlaZ+VrakeYMhh2fpJDkLlMPtDIQum9VpYe+OoOhnK7Vl6y8vLTMe3zA==
+"@minoru/react-dnd-treeview@^3.1.0":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@minoru/react-dnd-treeview/-/react-dnd-treeview-3.1.0.tgz#36721aff4ce1e6c88e5b383901e95f2362656f14"
+  integrity sha512-BoqJfTh+F8ZYglpwb/4vUKvB2iPD66mrH1IUBqMcxTTKaPQWFdEh3SUQmMaiP+eMLy6iug7kVGSZKgmScI2TGA==
   dependencies:
     dnd-multi-backend "^7.0.0-alpha.4"
     react-dnd-html5-backend "^16.0.1"
